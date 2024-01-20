@@ -6,5 +6,5 @@ learning basic js from scratch
 
 1. git status //(check files)
 2. git add . //(+)
-3. git commit -m "printing hello world"
+3. git commit -m //(message printing)
 4. git push origin main
